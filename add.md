@@ -9,3 +9,5 @@
 ``````brash=
 git add
 ``````
+
+![meme](./snimok-ekrana-2023-07-26-145006.png)
