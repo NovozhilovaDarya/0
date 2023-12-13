@@ -5,5 +5,5 @@
 Например:
 
 ``````brash=
-git remote add origin https://github.com/avsudnichnikov/example
+git remote add origin [adress]
 ``````
